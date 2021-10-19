@@ -1,5 +1,6 @@
-# 57. Ulusal Psikiyatri Kongresi Hesaplamalı Nörobilim Kursunda kullanılan örnek kodlar burada paylaşılmıştır.
+# 57. Ulusal Psikiyatri Kongresi - Hesaplamalı Nörobilim Kursu
 
+57. Ulusal Psikiyatri Kongresi Hesaplamalı Nörobilim Kursunda kullanılan örnek kodlar burada paylaşılmıştır.
 Kongre web sayfasına buradan (https://upk2021.org/) ulaşabilirsiniz.
 
 Kurslar sayfasına ve Hesaplamalı Nörobilim kursu bilgilerine buradan (https://upk2021.org/tr/kurslar.html) ulaşabilirsiniz.
