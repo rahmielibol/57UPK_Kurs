@@ -11,7 +11,7 @@ eqs = '''
 dv/dt = (a*v+b)/tau : 1
 '''
 G = NeuronGroup(1, eqs, method='linear') 
-#G.v=0.1     #Baslangic kosulu
+#G.v=0.1     #Baslangic kosulu, c
 # Modeli gerçekleyen temel fonksiyon hücre sayısı, denklemi, çözüm metodu gibi değişkenlere sahiptir.
 M = StateMonitor(G, 'v', record=0)
 # Model çalıştırıldığında tüm veriler tutulmaz. StateMonitor gibi fonksiyonlarla kaydedilmek istenen değişkenler seçilir.
