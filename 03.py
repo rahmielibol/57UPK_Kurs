@@ -5,10 +5,10 @@ from matplotlib.pyplot import * #Grafik çizdirme için gerekli kütüphane
 #Topla ve ateşle modelinin tanımlanması
 tau = 5*ms #tau değişkenine değer atama(Birimlere dikkat!)
 a=-1
-d=1
+b=1
 # Çok satırlı ifadeleri yazmak için ''' kullanılır. Hücre denklemi bu şekilde tanımlanır.
 eqs = ''' 
-dv/dt = (a*v+d)/tau : 1
+dv/dt = (a*v+b)/tau : 1
 '''
 G = NeuronGroup(1, eqs, threshold='v>0.8', reset='v = 0', method='linear')
 #G.v=0.1     #Baslangic kosulu
