@@ -2,6 +2,7 @@ from brian2 import * #Kütüphanelerin tanımlanması
 from numpy import * #Numeric python kütüphanesi temel matematiksel işlemlerin fonksiyonları
 from matplotlib.pyplot import * #Grafik çizdirme için gerekli kütüphane
 
+start_scope()
 #Topla ve ateşle modelinin tanımlanması
 tau = 5*ms #tau değişkenine değer atama(Birimlere dikkat!)
 a=-1
