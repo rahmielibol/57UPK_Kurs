@@ -8,4 +8,4 @@ Kurslar sayfasına ve Hesaplamalı Nörobilim kursu bilgilerine buradan (https:/
 
 Öncelikle BRIAN2 kütüphanesi kullandığınız Python kütüphanelerine eklenmelidir. Daha önce Python kullanmadıysanız Anaconda dağıtımını kullanabilirsiniz (https://www.anaconda.com/products/individual). Anaconda kurulduktan sonra BRIAN kütüphanesi https://briansimulator.org/install/ sayfası yardımıyla kurulabilir.
 
-Örnek kodlar numaralandırılarak verilmiştir. Kodların yanında bulunan açıklamalara dikkat ederek kodları çalıştırabilirsiniz.
+Örnek kodlar numaralandırılarak verilmiştir. Kodların yanında bulunan açıklamalara dikkat ederek kodları çalıştırabilirsiniz. 
